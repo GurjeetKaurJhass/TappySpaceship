@@ -191,7 +191,7 @@ public class GameEngine extends SurfaceView implements Runnable {
         if (userAction == MotionEvent.ACTION_DOWN) {
             Log.d(TAG, "Person tapped the screen");
 
-
+            Log.d(TAG, "Person tapped the screen");
         }
         else if (userAction == MotionEvent.ACTION_UP) {
             Log.d(TAG, "Person lifted finger");
